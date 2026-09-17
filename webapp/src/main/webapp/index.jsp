@@ -68,7 +68,7 @@
                     <div class="eyebrow">
                         <i class="fa-solid fa-shield-halved"></i> Quality Hardware for Modern Living
                     </div>
-                    <h1>Built for <span>Strength.</span><br />Designed for Life.</h1>
+                    <h1>Built  <span>Strength.</span><br />Designed for Life.</h1>
                     <p>
                         Premium stainless steel hardware, room fittings, bathroom fittings, locks and hinges for modern
                         homes and projects.
